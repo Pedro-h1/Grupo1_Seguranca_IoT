@@ -1,4 +1,4 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=900&lines=🌐+ATV_IoT+:+FlowSafe;📡Internet+das+Coisas+(IoT))](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=900&lines=🌐+ATV_IoT:+FlowSafe;📡Internet+das+Coisas+(IoT))](https://git.io/typing-svg)</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" />
