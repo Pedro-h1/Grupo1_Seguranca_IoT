@@ -1,4 +1,6 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=900&lines=🌐+ATV_IoT:+FlowSafe;📡Internet+das+Coisas+(IoT))](https://git.io/typing-svg)</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=🌐+ATV_IoT%3A+FlowSafe&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📡+Internet+das+Coisas+(IoT)&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=bd93f9&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" />
@@ -94,4 +96,8 @@
   <p>
     📌 <strong>Relatórios individuais</strong> de cada participante, elaborados e formatados conforme as <strong>normas ABNT</strong>, garantindo <strong>organização</strong>, <strong>padronização</strong> e <strong>clareza na documentação do projeto</strong>.
   </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=bd93f9&animation=fadeIn" width="100%" />
 </div>
